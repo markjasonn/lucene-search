@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Settings file for eclipse #
+.settings/
+
 # Package Files #
 *.jar
 *.war
